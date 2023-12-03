@@ -9,11 +9,13 @@ Hi there! <br><br>I'm Tejas Limbikai, a programming enthusiast who enjoys coding
 <a href="https://linkedin.com/in/tejaslimbikai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejaslimbikai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22710738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22710738" height="30" width="40" /></a>
 <a href="https://instagram.com/tejas-limbikai-11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejas-limbikai-11" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/limbikai_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="limbikai_11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/limbikaitejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="limbikaitejas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejas_limbikai_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas_limbikai_11" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tejas_limbikai_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tejas_limbikai_11" height="30" width="40" /></a>
 </p>
+<a href="https://www.hackerrank.com/limbikaitejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="limbikaitejas" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/limbikai_11" target="blank"><img align="center" src="https://api.iconify.design/simple-icons/codechef.svg?color=gray" alt="limbikai_11" height="30" width="40" /></a>
+
+
 
 
 # 💻 Tech Stack:
