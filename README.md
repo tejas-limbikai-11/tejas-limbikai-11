@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tejas Limbikai</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
+
+<div align="center" >
+  <img width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
+</div>
+
 Hi there! <br><br>I'm Tejas Limbikai, a programming enthusiast who enjoys coding and solving problems. I've got the basics down for C, C++, and Python, and I'm pretty comfortable with Java. I'm also familiar with data structures and algorithms.<br><br>💻 Tech Stuff<br><br>- Languages: Java (Proficient), C, C++, Python<br>- Web Development: Front-end (CSS, HTML5, Javascript, Bootstrap), MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>- Data Structures & Algorithms: Comfortable with the basics, always looking to deepen my understanding.<br><br>🚀 What I'm Doing<br><br>- 🔍 Currently digging into Full Stack Web Development.<br>- 🌱 Learning new things to improve my skills.<br><br>🤝 Let's Work Together!<br><br>I'm keen on collaborating with other programmers who share my passion. If you're into coding and problem-solving, let's connect and build something cool together!<br><br>Feel free to check out my projects and reach out if you want to chat or work on something interesting. Excited to be part of the coding community! 🚀<br>
 
 
