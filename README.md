@@ -50,6 +50,14 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
+### LeetCode:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/tejas_limbikai_11?theme=dark&font=Spline%20Sans&ext=contest)
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tejas-limbikai-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejas-limbikai-11&theme=dark&hide_border=false)<br/>
