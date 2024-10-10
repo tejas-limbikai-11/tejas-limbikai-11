@@ -59,9 +59,11 @@
 </p>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejas-limbikai-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejas-limbikai-11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-limbikai-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejas-limbikai-11&theme=transparent" height="180em" alt="Stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-limbikai-11&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
+    <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-limbikai-11&hide_border=true&theme=transparent" /> 
+</div>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
