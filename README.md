@@ -52,7 +52,7 @@
 
 ### LeetCode:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/tejas_limbikai_11?theme=dark&font=Spline%20Sans&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tejas3019?theme=dark&font=Spline%20Sans&ext=contest)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
