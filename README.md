@@ -12,9 +12,9 @@
 ### 🙋‍♂️ About Me
 - 👨‍🎓 I'm a third-year student at **VIIT Pune studying Computer Science**
 
-- 🔭 I’m looking to contribute to **Open Source**
+- 🔭 I’m currently sharpening my skills in **Advanced DSA and Problem Solving**
 
-- 🌱 I’m currently exploring **Full Stack Web Development**
+- 🌱  I’m diving into **Full Stack Web Development** to build dynamic applications
 
 - 👨‍💻 Know me more <a href="link" style="text-decoration: none;">Portfolio</a>
 
