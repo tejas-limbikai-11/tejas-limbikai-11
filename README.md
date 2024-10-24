@@ -10,7 +10,7 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👨‍🎓 I'm a sophomore at **VIIT Pune studying Computer Science**
+- 👨‍🎓 I'm a third-year student at **VIIT Pune studying Computer Science**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
