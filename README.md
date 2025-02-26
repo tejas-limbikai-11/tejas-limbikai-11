@@ -16,7 +16,7 @@
 
 - 🌱  I’m diving into **Full Stack Web Development** to build dynamic applications
 
-- 👨‍💻 Know me more <a href="link" style="text-decoration: none;">Portfolio</a>
+- 👨‍💻 Know me more <a href="https://tejas-limbikai.vercel.app/" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=limbikaitejas@gmail.com" style="text-decoration: none;">Email</a>
 
